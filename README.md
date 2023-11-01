@@ -1,6 +1,6 @@
                          EARTHQUAKE PREDICTION MODEL USING PYTHON
                                 DOCUMENT SUBMISSION
-
+				
 Project: Earthquake Prediction Model using Python
 
 OBJECTIVE:
